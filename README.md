@@ -1,3 +1,6 @@
+<p align=center>
+<img src="https://raw.github.com/phracker/f0ntbin/master/f0ntbin.png">
+</p>
 f0ntbin
 ---
 oldskool dos / amiga cracktro scroller fonts, ripped and converted to .png
